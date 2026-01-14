@@ -3,8 +3,7 @@
          height="45"
          width="45" /></h1> </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/puneet-dhankar-097206288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://www.hackerrank.com/profile/puneetd2005"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/riya-rana-121079328"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 <!-- <a href="https://www.instagram.com/self.nasu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> -->
 <!-- <a href="mailto:namanjain2002qw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> -->
 </p>
@@ -14,20 +13,14 @@
 * 🌐 Practical experience in API development using Flask (Python) and seamlessly integrating APIs into frontend applications.
 * 🗄️ Strong understanding of RDBMS, with experience in relational schema designing. Also worked with FirestoreDB and Firebase Real Time Database. 
 * 🔍 AI/ML enthusiast, skilled in Python, and Scikit-learn and worked with Tensorflow. Currently mastering AI/ML while pursuing Btech CSE from [SPSU, Udaipur](https://www.spsu.ac.in).
-* 💻 Proficient developer with expertise in Python, Firebase. Worked with Azure VM Hosting, RDBMS.
+* 💻 Proficient developer with expertise in Python, javascript. Worked with Azure VM Hosting.
 
 > **🚀 Tech Stack:**  
 > 
 > ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?logo=coffeescript&logoColor=white)
 
