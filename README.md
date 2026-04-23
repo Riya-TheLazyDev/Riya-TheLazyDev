@@ -1,117 +1,134 @@
-<p align="center"> <h1 align="center"> Hi, I am Riya Rana aka Riya-TheLazyDev <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h1> </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/puneet-dhankar-097206288/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
-<a href="https://www.hackerrank.com/profile/puneetd2005"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/> </a>
-<!-- <a href="https://www.instagram.com/self.nasu/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> -->
-<a href="mailto:riyarana.rohtak@gmail.com"><img src="https://img.shields.io/badge/Gmail-b91c1c?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://your-website.com" target="_blank" rel="noopener noreferrer"> <img src="https://img.shields.io/badge/Portfolio-FB7185?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<div align="center">
+
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Riya%20Rana&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Developer%20%7C%20B.Tech%20CSE%20%40%20SPSU%20Udaipur&descSize=16&descAlignY=55&descColor=a5b4fc"/>
+
+<!-- Typing SVG -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=818CF8&center=true&vCenter=true&random=false&width=600&lines=Building+real+products%2C+not+just+tutorials.;Frontend+Dev+%7C+React+%7C+Tailwind+%7C+JS;Learning+by+doing+%E2%80%94+one+project+at+a+time." alt="Typing SVG" />
 </a>
+
+<br/>
+
+<!-- Social Badges -->
+<p>
+  <a href="https://www.linkedin.com/in/puneet-dhankar-097206288/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/puneetd2005">
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  </a>
+  <a href="mailto:riyarana.rohtak@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://your-website.com">
+    <img src="https://img.shields.io/badge/Portfolio-%23FB7185.svg?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
-* 🚀 Learning by building live projects and experimenting with real product ideas while pursuing B.Tech CSE at SPSU, Udaipur.
-* 🎨 Frontend-focused student building responsive, modern web interfaces using HTML, CSS, JavaScript, React, and Tailwind CSS through hands-on project development.
-* ⚙️ Strong programming foundation with C++ and JavaScript, applying modular and reusable patterns in real-world web applications.
-* 🔗 Experience integrating frontend applications with data layers using MongoDB and MySQL, aligned with practical use cases.
-* ☁️ Familiar with modern development workflows using Git, Linux, and deploying projects on Azure environments.
+---
 
+## 🧑‍💻 About Me
 
-> **🚀 Tech Stack:**  
-> 
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+> _"I don't just follow tutorials — I build real things, break them, and figure out why."_
 
+- 🎓 Pursuing **B.Tech in Computer Science** at **SPSU, Udaipur**
+- 🎨 **Frontend-focused** developer — I turn ideas into clean, responsive, and accessible UIs
+- ⚡ Building with **React**, **Tailwind CSS**, **JavaScript**, and **C++** as my go-to stack
+- 🗄️ Comfortable connecting frontends to data with **MongoDB** & **MySQL**
+- ☁️ Familiar with **Git workflows**, **Linux**, and deploying on **Azure**
+- 🚀 Currently exploring: **full-stack patterns**, **system design fundamentals**, and **open source contribution**
+- 🤝 Open to: **internships**, **collaborative projects**, and **hackathons**
 
-***
-**⚙️ &nbsp;GitHub Analytics**
+---
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://stats-github-readme.vercel.app/api?username=Riya-TheLazyDev&show_icons=true&theme=tokyonight"
-           width="100%" height="200"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Riya-TheLazyDev&theme=tokyonight"
-           width="100%" height="200"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Riya-TheLazyDev&layout=compact&theme=tokyonight"
-           width="100%" height="200"/>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-TheLazyDev&theme=github-compact"
-           width="100%" height="200"/>
-    </td>
-  </tr>
-</table>
-<!-- ***
-**♨️ &nbsp;DSA Analytics**
+## 🛠️ Tech Stack
 
-<p align="center"> <img src="https://leetcard.jacoblin.cool/imkashyap?theme=dark&font=Noto%20Sans&ext=contest" 
-         alt="Leetcode stats" height="350"/></p>
-         
-*** -->
+### Languages
 
-<!-- **🛠 &nbsp;Tech Stack**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- Languages: &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007ACC)
-  ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=Dart&logoColor=007ACC)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=Kotlin)
+### Frameworks & Libraries
 
-- Frameworks: &nbsp;
-  ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter&logoColor=007ACC)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring&logoColor=B7C220)
-  ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-- Databases:  &nbsp;
-  ![Firestore](https://img.shields.io/badge/-Firestore-333333?style=flat&logo=firebase)
-  ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB%20Atlas-333333?style=flat&logo=mongodb)
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+### Databases
 
-- IDEs: &nbsp;
-  ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
-  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-*** -->
+### Tools & Platforms
 
-<!-- -  🔭 I’m currently building backend in Java.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
--  🌱 I’m currently learning more in Spring as a Framework. I have engaged myself in projects in the domain of MERN Stack. You can find my work [here](https://github.com/imKashyap?tab=repositories).
+---
 
--  💬 Ask me about Flutter, Firebase, Java, Dart, Javascript, OOPS, DBMS ,Data Structures & Algorithms.
-
--  😄 Pronouns: He/His
-
--  ⚡ Fun fact: While you close your eyes, this fact is decrypted. 😂 -->
-
-<!-- -  📫 How to reach me:
-[![LinkedIn](https://img.shields.io/badge/-Rahul_Kashyap-2867B2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kashyap-230577195/)
-[![Twitter](https://img.shields.io/badge/-imkashyap_-1da1f2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/imkashyap_)
-[![Instagram](https://img.shields.io/badge/-imkashyap__-833ab4?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/imkashyap__/)
-[![Gmail](https://img.shields.io/badge/-Rahul_Kashyap-DB4437?style=flat&logo=Gmail&logoColor=white)](mailto:rahulkashyap4041@gmail.com) -->
-
-<!-- ![](https://activity-graph.herokuapp.com/graph?username=imkashyap&theme=react-dark&hide_border=true&area=true) -->
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Riya-TheLazyDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8"/>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Riya-TheLazyDev&theme=tokyonight&hide_border=true&background=0d1117&ring=818cf8&fire=f472b6&currStreakLabel=818cf8"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-TheLazyDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8"/>
+    </td>
+    <td width="50%" align="center">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-TheLazyDev&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&hide_border=true"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+<!-- ## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://githubtroph.y.vercel.app/?username=Riya-TheLazyDev&theme=tokyonight&no-frame=true&margin-w=6&column=4"/>
+
+</div> -->
+
+---
+
+## 📌 Featured Projects
+
+> _(Pin your top 3–4 repositories on GitHub and they'll show up automatically. Below is a placeholder structure — replace with your real project links.)_
+
+| Project              | Description                        | Stack                    | Link      |
+| -------------------- | ---------------------------------- | ------------------------ | --------- |
+| 🔗 **Project Alpha** | Brief one-liner about what it does | React, Tailwind, MongoDB | [Repo](#) |
+| 🔗 **Project Beta**  | Brief one-liner about what it does | HTML, CSS, JS            | [Repo](#) |
+| 🔗 **Project Gamma** | Brief one-liner about what it does | C++, DSA                 | [Repo](#) |
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+I'm always open to interesting conversations, collaboration, and new opportunities.
+
+**Reach me at:** [riyarana.rohtak@gmail.com](mailto:riyarana.rohtak@gmail.com) · [LinkedIn](https://www.linkedin.com/in/puneet-dhankar-097206288/) · [Portfolio](https://your-website.com)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
