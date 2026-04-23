@@ -11,10 +11,30 @@
 <br/>
 
 <!-- Social Icons - single row inline -->
-[<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40">](https://www.linkedin.com/in/puneet-dhankar-097206288/)
-[<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40" height="40">](https://www.hackerrank.com/profile/puneetd2005)
-[<img src="https://skillicons.dev/icons?i=gmail" width="40" height="40">](mailto:riyarana.rohtak@gmail.com)
-[<img src="https://cdn.simpleicons.org/ghostfolio/FFFFFF" width="40" height="40">](https://your-website.com)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/puneet-dhankar-097206288/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.hackerrank.com/profile/puneetd2005">
+        <img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:riyarana.rohtak@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://your-website.com">
+        <img src="https://cdn.simpleicons.org/ghostfolio/FFFFFF" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 <br/>
 <!-- 
 <img src="https://komarev.com/ghpvc/?username=Riya-TheLazyDev&label=Profile+Views&color=6366f1&style=flat" alt="profile views"/> -->
