@@ -10,23 +10,19 @@
 
 <br/>
 
-<!-- Social Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/puneet-dhankar-097206288/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/puneetd2005">
-   <img src="https://skillicons.dev/icons?i=hackerrank" width="40" height="40"/>
-  </a>
-  <a href="mailto:riyarana.rohtak@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>
-  </a>
-  <a href="https://your-website.com">
-    <img src="https://skillicons.dev/icons?i=vercel" width="40" height="40"/>
-  </a>
-</p>
+<!-- Social Icons - single row inline -->
+<a href="https://www.linkedin.com/in/puneet-dhankar-097206288/">&nbsp;<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>&nbsp;</a>
+<a href="https://www.hackerrank.com/profile/puneetd2005">&nbsp;<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40" height="40"/>&nbsp;</a>
+<a href="mailto:riyarana.rohtak@gmail.com">&nbsp;<img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>&nbsp;</a>
+<a href="https://your-website.com">&nbsp;<img src="https://cdn.simpleicons.org/ghostfolio/FFFFFF" width="40" height="40"/>&nbsp;</a>
 
----
+<br/>
+<!-- 
+<img src="https://komarev.com/ghpvc/?username=Riya-TheLazyDev&label=Profile+Views&color=6366f1&style=flat" alt="profile views"/> -->
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ## 🧑‍💻 About Me
 
@@ -40,15 +36,21 @@
 - 🚀 Currently exploring: **full-stack patterns**, **system design fundamentals**, and **open source contribution**
 - 🤝 Open to: **internships**, **collaborative projects**, and **hackathons**
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 [![My Skills](https://skillicons.dev/icons?i=react,next,html,css,js,ts,nodejs,express)](https://skillicons.dev)
 
-[![MySkills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,azure,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres,azure,aws)](https://skillicons.dev)
 
 [![My Tools](https://skillicons.dev/icons?i=vscode,git,github,postman,npm,linux,figma)](https://skillicons.dev)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ## 📊 GitHub Analytics
 
@@ -68,34 +70,26 @@
       <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riya-TheLazyDev&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=818cf8"/>
     </td>
     <td width="50%" align="center">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-TheLazyDev&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&hide_border=true"/>
+      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-TheLazyDev&theme=tokyo-night&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&hide_border=true"/>
     </td>
   </tr>
 </table>
 
 </div>
 
-<!-- ## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://githubtroph.y.vercel.app/?username=Riya-TheLazyDev&theme=tokyonight&no-frame=true&margin-w=6&column=4"/>
-
-</div> -->
-
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ## 📌 Featured Projects
 
-> _(Pin your top 3–4 repositories on GitHub and they'll show up automatically. Below is a placeholder structure — replace with your real project links.)_
+> _(Replace with your real project links.)_
 
-| Project              | Description                        | Stack                    | Link      |
+| Project | Description | Stack | Link |
 | -------------------- | ---------------------------------- | ------------------------ | --------- |
 | 🔗 **Project Alpha** | Brief one-liner about what it does | React, Tailwind, MongoDB | [Repo](#) |
-| 🔗 **Project Beta**  | Brief one-liner about what it does | HTML, CSS, JS            | [Repo](#) |
-| 🔗 **Project Gamma** | Brief one-liner about what it does | C++, DSA                 | [Repo](#) |
+| 🔗 **Project Beta** | Brief one-liner about what it does | HTML, CSS, JS | [Repo](#) |
+| 🔗 **Project Gamma** | Brief one-liner about what it does | C++, DSA | [Repo](#) |
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
 
 ## 📫 Let's Connect
 
