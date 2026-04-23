@@ -35,10 +35,30 @@
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
-<tr>
-<td><img src="https://stats-github-readme.vercel.app/api?username=Riya-TheLazyDev&show_icons=true&theme=dark" /></td>
-<td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-TheLazyDev&theme=dark" /></td>
-</tr>
+## � GitHub Analytics
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://stats-github-readme.vercel.app/api?username=Riya-TheLazyDev&show_icons=true&theme=tokyonight"
+           width="100%" height="200"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=Riya-TheLazyDev&theme=tokyonight"
+           width="100%" height="200"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Riya-TheLazyDev&layout=compact&theme=tokyonight"
+           width="100%" height="200"/>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riya-TheLazyDev&theme=github-compact"
+           width="100%" height="200"/>
+    </td>
+  </tr>
+</table>
 <!-- ***
 **♨️ &nbsp;DSA Analytics**
 
