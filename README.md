@@ -35,7 +35,6 @@
 
 ***
 **⚙️ &nbsp;GitHub Analytics**
-## � GitHub Analytics
 
 <table align="center" width="100%">
   <tr>
