@@ -11,11 +11,10 @@
 <br/>
 
 <!-- Social Icons - single row inline -->
-<a href="https://www.linkedin.com/in/puneet-dhankar-097206288/">&nbsp;<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>&nbsp;</a>
-<a href="https://www.hackerrank.com/profile/puneetd2005">&nbsp;<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40" height="40"/>&nbsp;</a>
-<a href="mailto:riyarana.rohtak@gmail.com">&nbsp;<img src="https://skillicons.dev/icons?i=gmail" width="40" height="40"/>&nbsp;</a>
-<a href="https://your-website.com">&nbsp;<img src="https://cdn.simpleicons.org/ghostfolio/FFFFFF" width="40" height="40"/>&nbsp;</a>
-
+[<img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40">](https://www.linkedin.com/in/puneet-dhankar-097206288/)
+[<img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40" height="40">](https://www.hackerrank.com/profile/puneetd2005)
+[<img src="https://skillicons.dev/icons?i=gmail" width="40" height="40">](mailto:riyarana.rohtak@gmail.com)
+[<img src="https://cdn.simpleicons.org/ghostfolio/FFFFFF" width="40" height="40">](https://your-website.com)
 <br/>
 <!-- 
 <img src="https://komarev.com/ghpvc/?username=Riya-TheLazyDev&label=Profile+Views&color=6366f1&style=flat" alt="profile views"/> -->
