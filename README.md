@@ -14,7 +14,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="https://www.linkedin.com/in/puneet-dhankar-097206288/">
+      <a href="https://www.linkedin.com/in/riyaa-rana/">
         <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40"/>
       </a>
     </td>
