@@ -104,8 +104,8 @@
 
 | Project | Description | Stack | Link |
 | -------------------- | ---------------------------------- | ------------------------ | --------- |
-| 🔗 **Project Alpha** | Brief one-liner about what it does | React, Tailwind, MongoDB | [Repo](#) |
-| 🔗 **Project Beta** | Brief one-liner about what it does | HTML, CSS, JS | [Repo](#) |
+| 🔗 **Hostel-Leave-Security-ERP** | Brief one-liner about what it does | React, Tailwind, MongoDB | [Repo](#) |
+| 🔗 **Research-Information-Management-System** | Brief one-liner about what it does | HTML, CSS, JS | [Repo](#) |
 | 🔗 **Project Gamma** | Brief one-liner about what it does | C++, DSA | [Repo](#) |
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3"/>
